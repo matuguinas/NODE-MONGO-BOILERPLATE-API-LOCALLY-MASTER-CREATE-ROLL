@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb+srv://BBA:admin99@cluster2.7969u.mongodb.net/BBA'sDatabase?retryWrites=true&w=majority",
+    "secret": "fe6899ef-5c4c-47a2-a11e-f832445975b6",
+    "emailFrom": "info@node-mongo-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth": {
+            "user": "lubbockstrings@gmail.com",
+            "pass": "695c2db1-716c-44f3-8ab9-c75f2520c24a"
+        }
+    }
+}
